@@ -1,28 +1,27 @@
-*phone starts ringing*  
+_phone starts ringing_  
 playfairs: "huh?"  
 phone: "you have 3 days.",  
-playfairs: *looks out window*  
-playfairs: "*gulp* who is this."  
+playfairs: _looks out window_  
+playfairs: "_gulp_ who is this."  
 phone: "you will know when the time comes."  
 playfairs: "what no, just tell me"  
-phone: *hangs up*  
+phone: _hangs up_  
 playfairs: "well shit.."  
-playfairs: *grabs RPG from under bed*  
+playfairs: _grabs RPG from under bed_  
 playfairs: "this should be good"  
-door: *knock... knock... knock...*  
+door: _knock... knock... knock..._  
 playfairs: "whos there"  
 door: "open up"  
 playfairs: "...open up who"  
-door: *gets kicked down* "I DONT HAVE TIME FOR GAMES BOY"  
+door: _gets kicked down_ "I DONT HAVE TIME FOR GAMES BOY"  
 playfairs: "EAT THIS"  
-playfairs: *props up RPG and blasts the person behind the door up*  
-person: *blows the FUCK up and basically dies*  
-playfairs: *phew*  
+playfairs: _props up RPG and blasts the person behind the door up_  
+person: _blows the FUCK up and basically dies_  
+playfairs: _phew_  
 playfairs: "that was fucking close"  
-*phone rings again*  
+_phone rings again_  
 phone: "I know your tricks now."  
 playfairs: "what?? I thought that was it."  
-phone: "i WILL find you"  
-
+phone: "i WILL find you"
 
 part 2 coming soon
